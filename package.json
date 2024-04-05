@@ -1,0 +1,15 @@
+{
+  "name": "prova2m5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.spec.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
